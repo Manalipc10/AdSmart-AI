@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Projects/AdSmart%20AI/src/mlruns/604860666229411451/models/m-c9891130a98241e891137f7e331b0db3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-c9891130a98241e891137f7e331b0db3
+model_size_bytes: 143442
+model_uuid: m-c9891130a98241e891137f7e331b0db3
+prompts: null
+run_id: d675de2eb5e4410596be099891932a31
+utc_time_created: '2025-11-08 19:02:27.193406'

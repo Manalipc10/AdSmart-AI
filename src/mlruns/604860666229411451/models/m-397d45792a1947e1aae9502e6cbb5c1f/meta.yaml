@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Projects/AdSmart%20AI/src/mlruns/604860666229411451/models/m-397d45792a1947e1aae9502e6cbb5c1f/artifacts
+creation_timestamp: 1762632200521
+experiment_id: '604860666229411451'
+last_updated_timestamp: 1762632203795
+model_id: m-397d45792a1947e1aae9502e6cbb5c1f
+model_type: null
+name: model
+source_run_id: 465c07a3af23403990c215fbabffcf13
+status: 2
+status_message: null

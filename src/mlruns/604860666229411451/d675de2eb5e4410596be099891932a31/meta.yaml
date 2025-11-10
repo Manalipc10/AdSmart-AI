@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/AdSmart%20AI/src/mlruns/604860666229411451/d675de2eb5e4410596be099891932a31/artifacts
+end_time: 1762628551134
+entry_point_name: ''
+experiment_id: '604860666229411451'
+lifecycle_stage: active
+run_id: d675de2eb5e4410596be099891932a31
+run_name: classy-hawk-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762628546322
+status: 3
+tags: []
+user_id: manal
